@@ -27,6 +27,7 @@ Documentation:
 Visualization:
     ☐ check dimensional accuracy on map - is it ensured by geojson or mpl somehow?
     ☐ better colormap
+    ☐ logarithmic colormap on wealth map?
 
 Misc:
     ☐ ensure PEP8 styling
