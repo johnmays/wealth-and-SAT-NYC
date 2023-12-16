@@ -18,7 +18,9 @@ If you would like to run this project yourself, execute the following commands i
     wealth-and-SAT-NYC $ virtualenv -p < optional path to python 3.8 > venv
     wealth-and-SAT-NYC $ source venv/bin/activate
     (venv) wealth-and-SAT-NYC $ pip install -r requirements.txt
+    (venv) wealth-and-SAT-NYC $ mkdir data
 
+then, download the requisite data from the `NYC Open Data website <https://opendata.cityofnewyork.us/>`_ into the ``/data`` directory and the notebook should run!
 
 Data:
 =====
