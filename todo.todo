@@ -17,7 +17,7 @@ Documentation:
         - 2 years after housing crisis
         - distortions or noise may come from the fact that many may commute to their high school's zip code
     ☐ add motivation
-    ☐ add subheadings
+    ✔ add subheadings @done(23-12-16 16:06)
     ☐ data links in README
     ☐ mention data format required for download
     ☐ spellcheck documentation
@@ -25,8 +25,8 @@ Documentation:
     ☐ add license
 
 Visualization:
-    ☐ check dimensional accuracy on map - is it ensured by geojson or mpl somehow?
-    ☐ better colormap
+    ✔ check dimensional accuracy on map - is it ensured by geojson or mpl somehow? @done(23-12-16 16:07)
+    ✔ better colormap @done(23-12-16 16:07)
     ☐ logarithmic colormap on wealth map?
 
 Misc:
