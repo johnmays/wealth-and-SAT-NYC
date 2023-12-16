@@ -1,14 +1,15 @@
 Core:
-    ☐ create completely joined df
+    ✔ create completely joined df @done(23-12-16 16:28)
     ☐ somehow make map reflect SAT scores
     ☐ rationale behind data + incompleteness statement
     ☐ regression technique
     ☐ correlation measurements
-    ☐ plotting correlation
+    ✔ plotting correlation @done(23-12-16 17:02)
     ☐ check and see if SAT scores correlate well with any other variables (e.g. eliminate certain housing types or consider slimmer selection)
     ☐ export as PDF
     ☐ loose df statistics
     ☐ intermediate head()'s
+    ☐ change means to medians
 
 Documentation:
     ☐ comment code
@@ -27,7 +28,7 @@ Documentation:
 Visualization:
     ✔ check dimensional accuracy on map - is it ensured by geojson or mpl somehow? @done(23-12-16 16:07)
     ✔ better colormap @done(23-12-16 16:07)
-    ☐ logarithmic colormap on wealth map?
+    ✘ logarithmic colormap on wealth map? @cancelled(23-12-16 17:03)
 
 Misc:
     ☐ ensure PEP8 styling
