@@ -6,29 +6,29 @@ Core:
     ☐ correlation measurements
     ✔ plotting correlation @done(23-12-16 17:02)
     ✘ check and see if SAT scores correlate well with any other variables (e.g. eliminate certain housing types or consider slimmer selection) @cancelled(23-12-17 03:17)
+    ☐ add brief section explaining dataframes
     ☐ export as PDF
     ☐ general df statistics
+    ☐ do not average... -> sum subsection scores
     ✔ intermediate head()'s @done(23-12-17 03:18)
     ✔ change means to medians @done(23-12-17 03:18)
 
 Documentation:
     ☐ comment code
+    ☐ ensure PEP8 styling
     ✔ add statistical faults to notebook @done(23-12-17 03:18)
         ✔ measures not fully representative of real things (wealthy, academic prospects) @done(23-12-17 03:28)
         ✔ 2 years after housing crisis @done(23-12-17 03:28)
         ✔ distortions or noise may come from the fact that many may commute to their high school's zip code @done(23-12-17 03:28)
     ✔ add motivation @done(23-12-17 03:51)
     ✔ add subheadings @done(23-12-16 16:06)
-    ☐ data links in README
-    ☐ mention data format required for download
+    ✔ data links in README @done(23-12-17 04:25)
+    ✔ mention data format required for download @done(23-12-17 04:25)
     ☐ spellcheck documentation
     ☐ mention that a lot of the data exploration is hidden
-    ☐ add license
+    ✔ add license @done(23-12-17 04:25)
 
 Visualization:
     ✔ check dimensional accuracy on map - is it ensured by geojson or mpl somehow? @done(23-12-16 16:07)
     ✔ better colormap @done(23-12-16 16:07)
     ✘ logarithmic colormap on wealth map? @cancelled(23-12-16 17:03)
-
-Misc:
-    ☐ ensure PEP8 styling
