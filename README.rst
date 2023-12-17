@@ -1,5 +1,5 @@
-Investigating How Housing Value Correlates with SAT Scores in New York City
-===========================================================================
+Investigating The Relationship Between Housing Value and SAT Scores in New York City
+====================================================================================
 A short project exploring the relationship between housing value (as an indicator of wealth) and SAT scores (as an indicator of academic success & prospects) by ZIP code in New York City
 
 Environment & Stack:
