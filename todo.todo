@@ -3,8 +3,8 @@ Core:
     ✘ somehow make map reflect SAT scores @cancelled(23-12-17 05:42)
     ✔ map of SAT scored @done(23-12-17 05:42)
     ☐ rationale behind data + incompleteness statement (data availability)
-    ☐ general df statistics
-    ☐ add brief section explaining dataframes
+    ✔ general df statistics @done(23-12-17 15:50)
+    ✔ add brief section explaining dataframes @done(23-12-17 15:50)
     ✔ regression technique @done(23-12-17 03:17)
     ✔ correlation measurements @done(23-12-17 05:42)
     ✔ plotting correlation @done(23-12-16 17:02)
@@ -18,6 +18,7 @@ Core:
 Documentation:
     ☐ comment code @started(23-12-17 05:43)
     ☐ ensure PEP8 styling
+    ☐ get rid of we\us & replace w/ "I" if we must
     ✔ add statistical faults to notebook @done(23-12-17 03:18)
         ✔ measures not fully representative of real things (wealthy, academic prospects) @done(23-12-17 03:28)
         ✔ 2 years after housing crisis @done(23-12-17 03:28)
