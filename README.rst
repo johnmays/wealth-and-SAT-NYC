@@ -1,8 +1,6 @@
-Temp
-====
-
-SubTemp
-=======
+Investigating How Housing Value Correlates with SAT Scores in New York City
+===========================================================================
+A short project exploring the relationship between housing value (as an indicator of wealth) and SAT scores (as an indicator of academic success & prospects) by ZIP code in New York City
 
 Environment & Stack:
 ====================
@@ -20,20 +18,24 @@ If you would like to run this project yourself, execute the following commands i
     (.venv) wealth-and-SAT-NYC $ pip install -r requirements.txt
     (.venv) wealth-and-SAT-NYC $ mkdir data
 
-then, download the requisite data from the `NYC Open Data website <https://opendata.cityofnewyork.us/>`_ into the ``/data`` directory and the notebook should run!
+then, download the requisite data from the `NYC OpenData website <https://opendata.cityofnewyork.us/>`_ into the ``/data`` directory and the notebook should run!
 
 Data:
 =====
-...
+- `SAT (College Board) 2010 School Level Results OpenData ataset <https://data.cityofnewyork.us/Education/SAT-College-Board-2010-School-Level-Results/zt9s-n5aj>`_ as **.csv**
+- `NYC Citywide Annualized Calendar (Property) Sales OpenData Dataset <https://data.cityofnewyork.us/City-Government/NYC-Citywide-Annualized-Calendar-Sales-Update/w2pb-icbu>`_ as **.xls** (listed as **.csv**)
+- `Modified Zip Code Tabulation Areas (MODZCTA) OpenData Dataset <https://data.cityofnewyork.us/Health/Modified-Zip-Code-Tabulation-Areas-MODZCTA-/pri4-ifjk>`_ as **.geojson**
+- `2014 - 2015 DOE High School Directory OpenData Dataset <https://data.cityofnewyork.us/Education/2014-2015-DOE-High-School-Directory/n3p6-zve2>`_ as **.csv**
 
 Results:
 ========
-...
+See `notebook. <./notebooks/investigation.ipynb>`_
 
 Resources:
 ==========
-...
+- `NYC OpenData Database Website <https://opendata.cityofnewyork.us/>`_
+- `NYC DOE School District Map Tool <https://schoolsearch.schools.nyc/>`_
 
 Statistical Faults:
 ===================
-See notebook
+See final section of `notebook <./notebooks/investigation.ipynb>`_
