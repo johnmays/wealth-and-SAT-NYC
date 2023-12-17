@@ -1,21 +1,22 @@
 Core:
     ✔ create completely joined df @done(23-12-16 16:28)
-    ☐ somehow make map reflect SAT scores
+    ✘ somehow make map reflect SAT scores @cancelled(23-12-17 05:42)
+    ✔ map of SAT scored @done(23-12-17 05:42)
     ☐ rationale behind data + incompleteness statement (data availability)
+    ☐ general df statistics
+    ☐ add brief section explaining dataframes
     ✔ regression technique @done(23-12-17 03:17)
-    ☐ correlation measurements
+    ✔ correlation measurements @done(23-12-17 05:42)
     ✔ plotting correlation @done(23-12-16 17:02)
     ✘ check and see if SAT scores correlate well with any other variables (e.g. eliminate certain housing types or consider slimmer selection) @cancelled(23-12-17 03:17)
-    ☐ add brief section explaining dataframes
     ☐ export as PDF
-    ☐ general df statistics
-    ☐ do not average... -> sum subsection scores
+    ✔ do not average... -> sum subsection scores @done(23-12-17 05:42)
     ✔ intermediate head()'s @done(23-12-17 03:18)
     ✔ change means to medians @done(23-12-17 03:18)
-    ☐ add final discussion section
+    ✔ add final discussion section @done(23-12-17 05:42)
 
 Documentation:
-    ☐ comment code
+    ☐ comment code @started(23-12-17 05:43)
     ☐ ensure PEP8 styling
     ✔ add statistical faults to notebook @done(23-12-17 03:18)
         ✔ measures not fully representative of real things (wealthy, academic prospects) @done(23-12-17 03:28)
