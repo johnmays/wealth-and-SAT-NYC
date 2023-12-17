@@ -22,7 +22,7 @@ then, download the requisite data from the `NYC OpenData website <https://openda
 
 Data:
 =====
-- `SAT (College Board) 2010 School Level Results OpenData ataset <https://data.cityofnewyork.us/Education/SAT-College-Board-2010-School-Level-Results/zt9s-n5aj>`_ as **.csv**
+- `SAT (College Board) 2010 School Level Results OpenData Dataset <https://data.cityofnewyork.us/Education/SAT-College-Board-2010-School-Level-Results/zt9s-n5aj>`_ as **.csv**
 - `NYC Citywide Annualized Calendar (Property) Sales OpenData Dataset <https://data.cityofnewyork.us/City-Government/NYC-Citywide-Annualized-Calendar-Sales-Update/w2pb-icbu>`_ as **.xls** (listed as **.csv**)
 - `Modified Zip Code Tabulation Areas (MODZCTA) OpenData Dataset <https://data.cityofnewyork.us/Health/Modified-Zip-Code-Tabulation-Areas-MODZCTA-/pri4-ifjk>`_ as **.geojson**
 - `2014 - 2015 DOE High School Directory OpenData Dataset <https://data.cityofnewyork.us/Education/2014-2015-DOE-High-School-Directory/n3p6-zve2>`_ as **.csv**
