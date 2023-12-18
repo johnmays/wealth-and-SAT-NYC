@@ -9,7 +9,7 @@ Core:
     ✔ correlation measurements @done(23-12-17 05:42)
     ✔ plotting correlation @done(23-12-16 17:02)
     ✘ check and see if SAT scores correlate well with any other variables (e.g. eliminate certain housing types or consider slimmer selection) @cancelled(23-12-17 03:17)
-    ☐ export as PDF
+    ✔ export as PDF @done(23-12-17 20:15)
     ✔ do not average... -> sum subsection scores @done(23-12-17 05:42)
     ✔ intermediate head()'s @done(23-12-17 03:18)
     ✔ change means to medians @done(23-12-17 03:18)

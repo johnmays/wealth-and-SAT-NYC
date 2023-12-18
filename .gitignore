@@ -3,3 +3,6 @@
 
 # VS Code settings:
 /.vscode/
+
+# Jupyter:
+*/ipynb_checkpoints/
