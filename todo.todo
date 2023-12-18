@@ -14,9 +14,10 @@ Core:
     ✔ intermediate head()'s @done(23-12-17 03:18)
     ✔ change means to medians @done(23-12-17 03:18)
     ✔ add final discussion section @done(23-12-17 05:42)
+    ✔ test install process @done(23-12-17 19:26)
 
 Documentation:
-    ☐ comment code @started(23-12-17 05:43)
+    ✔ comment code @started(23-12-17 05:43) @done(23-12-17 19:00) @lasted(13h17m43s)
     ✔ ensure PEP8 styling @done(23-12-17 18:46)
     ✔ get rid of we\us & replace w/ "I" if we must @done(23-12-17 18:47)
     ✔ add statistical faults to notebook @done(23-12-17 03:18)
@@ -27,7 +28,7 @@ Documentation:
     ✔ add subheadings @done(23-12-16 16:06)
     ✔ data links in README @done(23-12-17 04:25)
     ✔ mention data format required for download @done(23-12-17 04:25)
-    ☐ spellcheck documentation
+    ✔ spellcheck documentation @done(23-12-17 18:56)
     ✘ mention that a lot of the data exploration is hidden @cancelled(23-12-17 18:47)
     ✔ add license @done(23-12-17 04:25)
 

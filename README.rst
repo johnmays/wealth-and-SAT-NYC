@@ -4,7 +4,7 @@ A short project exploring the relationship between housing value (as an indicato
 
 Environment & Stack:
 ====================
-I am using Python 3.8.9 with a list of packages that can be found in `requirements.txt <./requirements.txt>`_.  I am also using Jupyter.  I prefer to use VS Code to edit and view them.
+I am using Python 3.12.0 with a list of packages that can be found in `requirements.txt <./requirements.txt>`_.  I am also using Jupyter.  I prefer to use VS Code to edit and view them.
 
 If you would like to run this project yourself, execute the following commands in your shell:
 
@@ -12,8 +12,8 @@ If you would like to run this project yourself, execute the following commands i
 
     $ git clone https://github.com/johnmays/wealth-and-SAT-NYC.git
     $ cd wealth-and-SAT-NYC
-    wealth-and-SAT-NYC $ pip install virtualenv
-    wealth-and-SAT-NYC $ virtualenv -p < optional path to python 3.12 > .venv
+    wealth-and-SAT-NYC $ python3.12 -m pip install virtualenv
+    wealth-and-SAT-NYC $ python3.12 -m virtualenv .venv
     wealth-and-SAT-NYC $ source .venv/bin/activate
     (.venv) wealth-and-SAT-NYC $ pip install -r requirements.txt
     (.venv) wealth-and-SAT-NYC $ mkdir data
